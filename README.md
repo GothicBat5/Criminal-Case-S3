@@ -49,7 +49,3 @@ Interested in playing or learning more about World Edition? Find the game throug
  [Official Website](https://prettysimplegames.com/)
 
 ---
-
-<p align="center">
-  <sub>Documentation and information about Criminal Case: World Edition.</sub>
-</p>
