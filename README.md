@@ -2,6 +2,10 @@
 ### *Also known as Save the World!*
 
 <p align="center">
+  <img src="./MainBanner.png" alt="Criminal Case World Edition" width="850">
+</p>
+
+<p align="center">
   <strong>The third season of the Criminal Case series</strong>
 </p>
 
